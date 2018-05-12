@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UdacityServices</string>
+    <string name="drink_water_toast">Drinking water...</string>
+    <string name="instructions">Press the glass of water after you\'ve hydrated</string>
+    <string name="default_water_count">0</string>
+    <string name="charge_notification_count">Hydrate while charging reminder sent %d times</string>
+
+    <string name="charging_reminder_notification_title">Device Charging - Where\'s that water?</string>
+    <string name="charging_reminder_notification_body">There\'s never a better time to drink water than when you know your phone is charging. Drink up!</string>
+    <string name="notification_channel_name">Water reminder channel</string>
+
+</resources>
