@@ -1,4 +1,4 @@
-package com.vitaliimalone.udacityservices.services;
+package com.vitaliimalone.udacityservices.sync;
 
 import android.app.IntentService;
 import android.content.Intent;

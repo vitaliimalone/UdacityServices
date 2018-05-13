@@ -22,7 +22,10 @@
         </activity>
 
         <service
-            android:name=".services.WaterReminderIntentService"
+            android:name=".sync.WaterReminderIntentService"
+            android:exported="false"/>
+        <service
+            android:name=".sync.WaterReminderFirebaseJobService"
             android:exported="false"/>
     </application>
 
